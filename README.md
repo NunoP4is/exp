@@ -16,4 +16,4 @@ login
 base  de dados
 gestão de utilizadores
 pesquisa: distrito, distância, elevação, mais recente, mais antigo...
-feedbcak 
+feedbackk 
